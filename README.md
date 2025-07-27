@@ -41,7 +41,7 @@ Ready to explore? Here's how:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/KishoreMuruganantham/Reinforcement-Learning-Techniques.git
+    git clone https://github.com/mohammed840/Reinforcement-Learning-Techniques.git
     cd Reinforcement-Learning-Techniques
     ```
 
