@@ -6,8 +6,8 @@ Welcome to this exploration of various **Reinforcement Learning (RL)** algorithm
 
 This repository showcases a variety of RL concepts and algorithms:
 
-*   **🎲 Markov Decision Processes (MDPs):**
-    *   `Markov_process.ipynb`: Uncover the fundamentals of Markov chains and decision processes.
+*   **🎲 Mohammed  Decision Processes (MDPs):**
+    *   `Mohammed _process.ipynb`: Uncover the fundamentals of Mohammed  chains and decision processes.
 *   **⚙️ Dynamic Programming:**
     *   `value_iteration_Grid_world.ipynb`: Watch value iteration solve a classic grid world problem.
     *   `Jacks’_Car_Rental_Policy_iteration.ipynb`: See policy iteration tackle the Jack's Car Rental challenge.
@@ -105,9 +105,8 @@ See the [LICENSE.md](LICENSE.md) file for more details.
 
 ## 📞 Contact
 
-Kishore Muruganantham
-*   📧 [kishore.muruganantham@gmail.com](mailto:kishore.muruganantham@gmail.com)
-*   💼 [LinkedIn Profile](https://www.linkedin.com/in/kishore-m-13a7402a7/)
+Mohammed Alshehri 
+*   💼 [LinkedIn Profile](https://www.linkedin.com/in/mohammed-alshehri-0a8ab81b1/)
 
-Project Link: [https://github.com/KishoreMuruganantham/Reinforcement-Learning-Techniques](https://github.com/KishoreMuruganantham/Reinforcement-Learning-Techniques)
+Project Link: [https://github.com/mohammed840/-Reinforcement-Learning-Techniques)
 
