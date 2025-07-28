@@ -24,7 +24,6 @@ This repository showcases a variety of RL concepts and algorithms:
     *   `tic-tac-toe_5(a).ipynb` & `tic-tac-toe_5(b).ipynb`: Watch RL learn to play Tic-Tac-Toe ⭕❌.
     *   **📁 CASE_STUDY (Directory):** This directory may contain more detailed case studies or related files.
 
-*Please note: The list of files might be incomplete due to API limitations. You can browse all files in the repository [here](https://github.com/KishoreMuruganantham/Reinforcement-Learning-Techniques/tree/main).*
 
 ## 🛠️ Getting Started
 
